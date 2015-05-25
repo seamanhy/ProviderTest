@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Work\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\Work\Project\Demo\Android\第一行代码\ProviderTest\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-a2785c50c6ed31cd290e94f6410b1217af5efdbc.jar" />
+    </item>
+    <item
+        jar="D:\Work\Project\Demo\Android\第一行代码\ProviderTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\Work\Project\Demo\Android\第一行代码\ProviderTest\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-c9881a09622db79e525340399928e01333a1921d.jar" />
+    </item>
+    <item
+        jar="D:\Work\Project\Demo\Android\第一行代码\ProviderTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\Work\Project\Demo\Android\第一行代码\ProviderTest\app\build\intermediates\pre-dexed\debug\classes-b78994aa9398f0df73db5cf39c48fde82d19df9e.jar" />
+    </item>
+    <item
+        jar="D:\Work\Project\Demo\Android\第一行代码\ProviderTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\Work\Project\Demo\Android\第一行代码\ProviderTest\app\build\intermediates\pre-dexed\debug\classes-6554724e4e57c5e6a9f789b5b926dc32a8900f45.jar" />
+    </item>
+
+</items>
